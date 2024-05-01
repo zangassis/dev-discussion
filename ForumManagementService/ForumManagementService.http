@@ -1,0 +1,6 @@
+@ForumManagementService_HostAddress = http://localhost:5240
+
+GET {{ForumManagementService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
