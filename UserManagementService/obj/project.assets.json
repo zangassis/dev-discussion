@@ -4561,11 +4561,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projects\\ASP.NET Core basics\\Database Approaches\\DevDiscussion\\UserManagementService\\UserManagementService.csproj",
+      "projectUniqueName": "C:\\Projects\\ASP.NET Core basics\\Database Approaches\\DevDiscussion\\dev-discussion\\UserManagementService\\UserManagementService.csproj",
       "projectName": "UserManagementService",
-      "projectPath": "C:\\Projects\\ASP.NET Core basics\\Database Approaches\\DevDiscussion\\UserManagementService\\UserManagementService.csproj",
+      "projectPath": "C:\\Projects\\ASP.NET Core basics\\Database Approaches\\DevDiscussion\\dev-discussion\\UserManagementService\\UserManagementService.csproj",
       "packagesPath": "C:\\Users\\assis.zang\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\ASP.NET Core basics\\Database Approaches\\DevDiscussion\\UserManagementService\\obj\\",
+      "outputPath": "C:\\Projects\\ASP.NET Core basics\\Database Approaches\\DevDiscussion\\dev-discussion\\UserManagementService\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -4580,7 +4580,6 @@
       ],
       "sources": {
         "C:\\Program Files\\dotnet\\library-packs": {},
-        "https://alm-animaeducacao.pkgs.visualstudio.com/_packaging/animacore/nuget/v3/index.json": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

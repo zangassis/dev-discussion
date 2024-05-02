@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "F8FCMpAogI8/gnSSTn2ZPA8JsPkkUCH9/Q1wn4c1qyAv8yiSEupCaTgcuALPr1V/y06W4pn2m/w+LFnAY6l3Cg==",
+  "dgSpecHash": "MCTWuNCGJ+M/9c9+WV2CPTRqwy3qyAb+2GmeudccUQSHVqC+Ohs60C4DKCPDwEJlCA8aNG3fZ1RTF1ui4xQx4Q==",
   "success": true,
-  "projectFilePath": "C:\\Projects\\ASP.NET Core basics\\Database Approaches\\DevDiscussion\\UserManagementService\\UserManagementService.csproj",
+  "projectFilePath": "C:\\Projects\\ASP.NET Core basics\\Database Approaches\\DevDiscussion\\dev-discussion\\UserManagementService\\UserManagementService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\assis.zang\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\assis.zang\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
