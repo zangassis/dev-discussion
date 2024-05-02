@@ -10,7 +10,7 @@ DevDiscussion is an ASP.NET Core project that combines Database First and Code F
    ```
 
 2. **Database First Approach:**
-   - Navigate to `DatabaseFirst` directory.
+   - Navigate to `UserManagementService` directory.
    - Modify the connection string in `appsettings.json` to point to your database.
    - Ensure you have the necessary packages installed via NuGet.
 
