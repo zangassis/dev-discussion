@@ -1,7 +1,7 @@
 ## DevDiscussion 👩‍💻🏓👨‍💻
 
-**This project contains a sample ASP.NET Core app. This app is an example of the article I produced for the Telerik Blog (telerik.com/blogs).
-**
+**This project contains a sample ASP.NET Core app. This app is an example of the article I produced for the Telerik Blog (telerik.com/blogs).**
+
 DevDiscussion is an ASP.NET Core project that combines Database First and Code First approaches to streamline your development process.
 
 **🔧 Setup:**
